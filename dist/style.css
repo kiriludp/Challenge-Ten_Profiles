@@ -1,0 +1,36 @@
+body {
+    background-color: #c8c8c8;
+}
+
+.team-heading {
+    background-color: #c8b4b4;
+    
+    
+}
+
+h1 {
+    font-family:'Permanent Marker';
+    font-size: 75px;
+    color: #51565f;
+    
+}
+
+.employee-card {
+    margin: 40px;
+    border-width: 5px;
+    
+}
+
+.card-header {
+    background-color: #c8a0a0;
+    font-family:'Permanent Marker';
+    color: #51565f;
+}
+
+.list-group-item {
+    border-width: 10px;
+    
+}
+
+
+

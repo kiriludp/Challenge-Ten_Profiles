@@ -1,17 +1,20 @@
 // TODO: Write code to define and export the Manager class. HINT: This class should inherit from Employee.
 
 const Employee = require('./Employee');
-const inquirer = require('inquirer');
+
 
 class Manager extends Employee {
     constructor(name, id, email, officeNumber) {
         super(name, id, email);
-        this.github = officeNumber;
+        
+  this.officeNumber = officeNumber;
+     
     }
-
-    getGithub() {
+    
+    getOfficeNumber() {
         return this.officeNumber;
     }
+
     getRole() {
         return 'Manager';
     }
