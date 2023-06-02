@@ -23,7 +23,10 @@ A Command Line application to generate a webpage that displays a Manager's team 
 </br>
 </br>
 
-<iframe src="https://drive.google.com/file/d/1rOX25AYLrMVo2ohehsG_RjJeL1yDt0wJ/preview" width="640" height="480" allow="autoplay"></iframe>
+
+https://drive.google.com/file/d/1rOX25AYLrMVo2ohehsG_RjJeL1yDt0wJ/view?usp=sharing
+
+
 
 
 </br>
